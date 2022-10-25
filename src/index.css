@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: none;
+    list-style: none;    
+}
+
+body{
+    padding: 2rem 15%;
+}
