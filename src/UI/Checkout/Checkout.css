@@ -1,10 +1,7 @@
-.product{
+.product {
     display: flex;
     padding: 2rem 0;
     justify-content: space-between;
-
-}
-
-.product-details{
-    padding-right: 40%;
+    width: 100%;
+    gap: 2rem;
 }

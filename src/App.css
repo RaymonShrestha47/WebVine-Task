@@ -1,1 +1,5 @@
 @import '~antd/dist/antd.css';
+
+.container {
+    width: 100%;
+}
